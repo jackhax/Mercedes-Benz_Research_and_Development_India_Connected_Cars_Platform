@@ -28,4 +28,4 @@ For integrating Lambda with API Gateway follow [Integrating Lambda with API gate
 
 
 
-#### For detailed problem statement please follow  this [link](https://www.techgig.com/hackathon/question/cHpjUFBhbUFpcHdBMTRoWnA2STNBbDNOQU43STNFWndOL3BvUTlWUk85K0lBOWhCUU5mU2JPNStmd0JsaEc1UQ==/1)
+#### For more detail about the challenge follow this [link](https://www.techgig.com/hackathon/mercedes-benz-hiring-challenge)
